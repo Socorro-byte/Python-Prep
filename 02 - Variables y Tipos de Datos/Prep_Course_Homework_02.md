@@ -7,7 +7,7 @@
 3) Imprimir el tipo de dato de la variable creada en el punto 1
 
 4) Crear una variable que contenga tu nombre
-
+a = "hola";
 5) Crear una variable que contenga un número complejo
 
 6) Mostrar el tipo de dato de la variable crada en el punto 5
